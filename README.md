@@ -20,9 +20,6 @@ Here are the technologies I work with:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroCos19&layout=compact&theme=radical)  
 
 
-
-![Snake animation](https://github.com/IcaroCos19/IcaroCos19/blob/output/github-contribution-grid-snake.svg)
-
 ## Contacts
 
 
