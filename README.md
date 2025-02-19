@@ -6,6 +6,11 @@ I'm a passionate developer always looking to learn new things. I have experience
 ## Technologies I Use 🛠️  
 
 Here are the technologies I work with:  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pyython,cs,dotnet,java,unity" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=pyython,cs,dotnet,java,unity)](https://skillicons.dev)
 
@@ -20,5 +25,5 @@ Here are the technologies I work with:
 ## Contacts
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Icaro](https://www.linkedin.com/in/icaro-costa-3a335627b/)
+- **LinkedIn:** [Icaro](https://www.linkedin.com/in/icaro-costa-3a335627b/)
 - **E-mail:** icarkz219@gmail.com
