@@ -21,10 +21,10 @@ Here are the technologies I work with:
 
 
 
-![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IcaroCos19/IcaroCos19/blob/output/github-contribution-grid-snake.svg)
 
 ## Contacts
 
 
-- **LinkedIn:** [Icaro Costa](https://www.linkedin.com/in/icaro-costa-3a335627b/)
+- **LinkedIn:** [Icaro](https://www.linkedin.com/in/icaro-costa-3a335627b/)
 - **E-mail:** icarkz219@gmail.com
