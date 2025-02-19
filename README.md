@@ -23,8 +23,8 @@ Here are the technologies I work with:
 
 ![Snake animation](https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-## Como me encontrar 🌐
+## Contacts
 
 
-- **LinkedIn:** [SeuNomeNoLinkedIn](https://www.linkedin.com/in/icaro-costa-3a335627b/)
+- **LinkedIn:** [Icaro Costa](https://www.linkedin.com/in/icaro-costa-3a335627b/)
 - **E-mail:** icarkz219@gmail.com
