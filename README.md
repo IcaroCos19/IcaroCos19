@@ -12,8 +12,6 @@ Here are the technologies I work with:
   </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=pyython,cs,dotnet,java,unity)](https://skillicons.dev)
-
 
 ## GitHub Stats 📊  
 
