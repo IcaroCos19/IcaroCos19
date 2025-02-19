@@ -7,10 +7,7 @@ I'm a passionate developer always looking to learn new things. I have experience
 
 Here are the technologies I work with:  
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+[![My Skills](https://skillicons.dev/icons?i=pyython,cs,dotnet,java,unity)](https://skillicons.dev)
 
 
 ## GitHub Stats 📊  
