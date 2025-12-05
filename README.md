@@ -8,7 +8,7 @@ I'm a passionate developer always looking to learn new things. I have experience
 Here are the technologies I work with:  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,unity,python,html,css,django,sqlite&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,django,sqlite,unity,html,css&perline=3" />
   </a>
 </p>
 
