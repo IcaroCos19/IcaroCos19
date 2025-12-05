@@ -13,13 +13,6 @@ Here are the technologies I work with:
 </p>
 
 
-## GitHub Stats 📊  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IcaroCos19&show_icons=true&theme=radical)  
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroCos19&layout=compact&theme=radical)  
-
-
 ## Contacts
 
 
